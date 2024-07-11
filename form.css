@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border-style: 1px solid black;
+}
+.form-container1{
+    margin: 0px;
+    padding: 15px;
+    background-color: antiquewhite;
+    background-size: cover;
+    height: 100vh;
+}
